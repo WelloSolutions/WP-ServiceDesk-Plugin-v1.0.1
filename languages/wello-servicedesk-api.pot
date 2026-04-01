@@ -1,0 +1,218 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wello ServiceDesk API\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-10-28 14:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.8.3; php-8.2.12\n"
+"X-Domain: wello-servicedesk-api"
+
+#: wello-servicedesk-api.php:159
+msgid "Access Token"
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:104
+msgid "Access token generated successfully."
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:129
+msgid "Access token has been cleared successfully."
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:144
+msgid "Access Token:"
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:50
+msgid "An error occurred"
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:153
+msgid "Are you sure you want to clear the access token?"
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:94
+#, php-format
+msgid "Attempts left: %s."
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:154
+msgid "Clear Access Token"
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:188
+msgid "Confirm OTP"
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:40
+#: wello_servicedesk_generate_token_page.php:84
+msgid "Connection error. Please try again."
+msgstr ""
+
+#: wello-servicedesk-api.php:36
+msgid "CSS file not found:"
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:48
+msgid "Email or password not valid. Please try again. You can try 3 times."
+msgstr ""
+
+#: wello-servicedesk-api.php:157
+msgid "General Settings"
+msgstr ""
+
+#: wello-servicedesk-api.php:120 wello-servicedesk-api.php:178
+msgid "Generate Access Token"
+msgstr ""
+
+#: wello-servicedesk-api.php:121
+msgid "Generate Token"
+msgstr ""
+
+#: wello-servicedesk-api.php:179
+msgid ""
+"Generate your access token, then save your changes to enable secure access "
+"and apply your configuration."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wello.solutions/"
+msgstr ""
+
+#: wello-servicedesk-api.php:186 wello-servicedesk-api.php:196
+#: wello-servicedesk-api.php:206
+msgid "Image should be maximum 2MB."
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:91
+msgid "Invalid OTP code."
+msgstr ""
+
+#: wello-servicedesk-api.php:60
+msgid "JS file not found:"
+msgstr ""
+
+#: wello-servicedesk-api.php:162
+msgid "Main Page Banner"
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:93
+msgid "Max attempts reached. Try again in 24 hours."
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:185
+msgid "OTP Code"
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:53
+msgid "OTP requested successfully."
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:96
+msgid "OTP verification failed."
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:175
+msgid "Password"
+msgstr ""
+
+#: wello-servicedesk-api.php:160
+msgid "Primary Logo"
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:178
+msgid "Request OTP"
+msgstr ""
+
+#: support-page-editor.php:40
+msgid "Save Content"
+msgstr ""
+
+#: wello-servicedesk-api.php:161
+msgid "Secondary Logo"
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:124
+msgid "Security check failed while clearing the token."
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:20
+#: wello_servicedesk_generate_token_page.php:64
+msgid "Security check failed."
+msgstr ""
+
+#: wello-servicedesk-api.php:185 wello-servicedesk-api.php:195
+#: wello-servicedesk-api.php:205
+msgid "Select Image"
+msgstr ""
+
+#: wello-servicedesk-api.php:85 wello-servicedesk-api.php:112
+msgid "Service Desk"
+msgstr ""
+
+#. Description of the plugin
+msgid "Service Desk for field service companies."
+msgstr ""
+
+#: wello-servicedesk-api.php:111 wello-servicedesk-api.php:141
+msgid "Service Desk Settings"
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:146
+msgid "Set Access Token"
+msgstr ""
+
+#: wello-servicedesk-api.php:130
+msgid "Support Page"
+msgstr ""
+
+#: support-page-editor.php:21 wello-servicedesk-api.php:129
+msgid "Support Page Content"
+msgstr ""
+
+#: support-page-editor.php:15
+msgid "Support page content saved."
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:46
+msgid ""
+"Thank you for your interest in the Wello Service desk plugin. You need to be "
+"an administrator to set up this plugin."
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:94
+msgid "Unknown"
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:171
+msgid "Username"
+msgstr ""
+
+#. Author of the plugin
+msgid "Wello"
+msgstr ""
+
+#: wello_servicedesk_generate_token_page.php:118
+msgid "Wello Service Desk - Access Token Setup"
+msgstr ""
+
+#. Name of the plugin
+msgid "Wello Service Desk API"
+msgstr ""
+
+#: wello-servicedesk-api.php:67
+msgid "Wello Service Desk Template"
+msgstr ""
+
+#: support-page-editor.php:8 wello_servicedesk_generate_token_page.php:8
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""

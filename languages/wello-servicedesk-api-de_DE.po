@@ -1,0 +1,263 @@
+msgid ""
+msgstr ""
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==1) ? 0 : 1;\n"
+"X-Generator: Phrase (phrase.com)\n"
+
+# 
+# This label refers to a security credential used to authenticate and authorize access to a system or service. The access token is typically generated during a login or authentication process and is required to access protected resources or perform certain actions. 
+#: wello-servicedesk-api.php:159
+msgid "Access Token"
+msgstr "Zugriffstoken"
+
+# 
+# This message is displayed to confirm that an access token has been successfully created. The message informs the user that the token generation process was completed.
+#: wello_servicedesk_generate_token_page.php:104
+msgid "Access token generated successfully."
+msgstr "Zugriffstoken erfolgreich generiert."
+
+# 
+# This message is displayed to confirm that an access token has been successfully removed or deleted. 
+#: wello_servicedesk_generate_token_page.php:129
+msgid "Access token has been cleared successfully."
+msgstr "Zugriffstoken erfolgreich gelöscht."
+
+# 
+# The "Access token" label refers to a security credential used to authenticate and authorize access to a system or service. 
+#: wello_servicedesk_generate_token_page.php:144
+msgid "Access Token:"
+msgstr "Zugriffstoken:"
+
+# 
+# This message is shown when something goes wrong in the system. It’s a general error notification meant to let the user know that the action they tried couldn’t be completed due to an unexpected issue.
+#: wello_servicedesk_generate_token_page.php:50
+msgid "An error occurred"
+msgstr "Ein Fehler ist aufgetreten"
+
+# 
+# This confirmation message appears when a user tries to remove or delete an existing access token. It asks the user to confirm their action.
+#: wello_servicedesk_generate_token_page.php:153
+msgid "Are you sure you want to clear the access token?"
+msgstr "Möchten Sie dieses Zugriffstoken wirklich löschen?"
+
+# 
+# This message is shown to let the user know how many tries they have remaining to complete a certain action, such as entering a password or verification code. The "%s" is a placeholder that will be replaced with the actual number of attempts left. It helps users understand how many more chances they have before the action is restricted.
+#: wello_servicedesk_generate_token_page.php:94
+#, php-format
+msgid "Attempts left: %s."
+msgstr "Verbleibende Versuche: %s"
+
+# 
+# This label is used for a button or action that allows the user to remove an existing access token.
+#: wello_servicedesk_generate_token_page.php:154
+msgid "Clear Access Token"
+msgstr "Zugriffstoken löschen"
+
+# 
+# This label is used for a button or action that asks the user to confirm the One-Time Password (OTP) they’ve entered. It’s part of a security step to make sure the person taking the action is authorized. Once the user enters the OTP, they click this to proceed.
+#: wello_servicedesk_generate_token_page.php:188
+msgid "Confirm OTP"
+msgstr "OTP bestätigen"
+
+# 
+# This message appears when the system is unable to connect to the server or network. It lets the user know that something went wrong with the connection and it tells them to try the action again.
+#: wello_servicedesk_generate_token_page.php:40
+#: wello_servicedesk_generate_token_page.php:84
+msgid "Connection error. Please try again."
+msgstr "Verbindungsfehler. Bitte versuchen Sie es noch einmal."
+
+# 
+# This message appears when the system is unable to locate a required CSS file. 
+#: wello-servicedesk-api.php:36
+msgid "CSS file not found:"
+msgstr "CSS-Datei nicht gefunden:"
+
+# 
+# This message is shown when a user enters an incorrect email or password while trying to log in. It lets them know the login attempt failed and encourages them to try again. It also informs them that they have a total of 3 attempts before further action might be required.
+#: wello_servicedesk_generate_token_page.php:48
+msgid "Email or password not valid. Please try again. You can try 3 times."
+msgstr "E-Mail oder Passwort ungültig. Bitte versuchen Sie es erneut."
+
+# 
+# This text is an header on the Service desk setting page. It refers to a section where users can manage basic or overall configuration options for the system, application/feature they’re working with.
+#: wello-servicedesk-api.php:157
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+# 
+# This label is used for a button or action that creates a new access token. When the user clicks this, the system generates a token that can be used for authorized access.
+#: wello-servicedesk-api.php:120 wello-servicedesk-api.php:178
+msgid "Generate Access Token"
+msgstr "Zugriffstoken generieren"
+
+# 
+# This is a button on the menu panel that leads to the page where users can generate an Access Token.
+#: wello-servicedesk-api.php:121
+msgid "Generate Token"
+msgstr "Token generieren"
+
+# 
+# This message guides the user through the process of setting up secure access. It tells them to first generate an access token, which is used to authenticate or authorize secure connections. After generating the token, they need to save their changes so the system can apply the configuration and enable secure access.
+#: wello-servicedesk-api.php:179
+msgid "Generate your access token, then save your changes to enable secure access and apply your configuration."
+msgstr "Generieren Sie Ihr Zugriffstoken, speichern Sie dann Ihre Änderungen, um einen sicheren Zugriff zu ermöglichen und Ihre Konfiguration anzuwenden."
+
+#. Author URI of the plugin
+msgid "https://wello.solutions/"
+msgstr "https://de.wello.solutions/"
+
+# 
+# This message serves as a reminder for users to keep uploads within the allowed limit (2MB).
+#: wello-servicedesk-api.php:186 wello-servicedesk-api.php:196
+#: wello-servicedesk-api.php:206
+msgid "Image should be maximum 2MB."
+msgstr "Das Bild darf maximal 2 MB groß sein."
+
+#: wello_servicedesk_generate_token_page.php:91
+msgid "Invalid OTP code."
+msgstr "Ungültiger OTP-Code."
+
+# 
+# This message appears when the system can’t locate a required JavaScript (JS) file. 
+#: wello-servicedesk-api.php:60
+msgid "JS file not found:"
+msgstr "JS-Datei nicht gefunden:"
+
+# 
+# This label refers to the banner section that appears on the main page of the app.
+#: wello-servicedesk-api.php:162
+msgid "Main Page Banner"
+msgstr "Hauptseite Banner"
+
+# 
+# This message is shown when a user has reached the maximum number of allowed attempts for a specific action. It lets them know they have to wait 24 hours before making another attempt. 
+#: wello_servicedesk_generate_token_page.php:93
+msgid "Max attempts reached. Try again in 24 hours."
+msgstr "Max. Versuche erreicht. Versuchen Sie es in 24 Stunden erneut."
+
+# 
+# Translate as is. This is a label indicating an OTP Code.
+#: wello_servicedesk_generate_token_page.php:185
+msgid "OTP Code"
+msgstr "OTP-Code"
+
+# 
+# This is a message the system displays to the user to let them know that they have successfully requested for an OTP.
+#: wello_servicedesk_generate_token_page.php:53
+msgid "OTP requested successfully."
+msgstr "OTP erfolgreich angefordert."
+
+# 
+# This message is displayed to the user when the system is unable to verify the OTP they provided.
+#: wello_servicedesk_generate_token_page.php:96
+msgid "OTP verification failed."
+msgstr "OTP-Verifizierung fehlgeschlagen."
+
+#: wello_servicedesk_generate_token_page.php:175
+msgid "Password"
+msgstr "Passwort"
+
+# 
+# Translate as is. It is a label that indicates what the app's primary logo is.
+#: wello-servicedesk-api.php:160
+msgid "Primary Logo"
+msgstr "Primäres Logo"
+
+#: wello_servicedesk_generate_token_page.php:178
+msgid "Request OTP"
+msgstr "OTP anfordern"
+
+# 
+# This is a label that indicates the app's secondary logo.
+#: wello-servicedesk-api.php:161
+msgid "Secondary Logo"
+msgstr "Sekundäres Logo"
+
+# 
+# This message appears when the system tries to clear an access token but fails due to a security validation issue. 
+#: wello_servicedesk_generate_token_page.php:124
+msgid "Security check failed while clearing the token."
+msgstr "Die Sicherheitsüberprüfung ist beim Löschen des Tokens fehlgeschlagen."
+
+# 
+# This message is shown when the system is unable to verify a security requirement during an action.
+#: wello_servicedesk_generate_token_page.php:20
+#: wello_servicedesk_generate_token_page.php:64
+msgid "Security check failed."
+msgstr "Sicherheitsprüfung fehlgeschlagen."
+
+#: wello-servicedesk-api.php:185 wello-servicedesk-api.php:195
+#: wello-servicedesk-api.php:205
+msgid "Select Image"
+msgstr "Bild auswählen"
+
+# 
+# This is a label for an option on the menu panel that takes the user to where they can set up Service Desk related configurations. 
+# 
+# You can translate this text within the context of a support related system, troubleshooting and assistance.
+#: wello-servicedesk-api.php:85 wello-servicedesk-api.php:112
+msgid "Service Desk"
+msgstr "Service Desk"
+
+# 
+# This text serves as a description for the Service Desk plugin. Translate as is.
+#. Description of the plugin
+msgid "Service Desk for field service companies."
+msgstr "Service Desk für Außendienstunternehmen."
+
+#: wello-servicedesk-api.php:111 wello-servicedesk-api.php:141
+msgid "Service Desk Settings"
+msgstr "Service Desk-Einstellungen"
+
+#: wello_servicedesk_generate_token_page.php:146
+msgid "Set Access Token"
+msgstr "Zugriffstoken festlegen"
+
+#: wello-servicedesk-api.php:130
+msgid "Support Page"
+msgstr "Support-Seite"
+
+#: support-page-editor.php:21 wello-servicedesk-api.php:129
+msgid "Support Page Content"
+msgstr "Support-Seiteninhalt"
+
+#: support-page-editor.php:15
+msgid "Support page content saved."
+msgstr "Support-Seiteninhalt gespeichert."
+
+# 
+# This message is displayed when a user without administrative rights attempts to set up the Service Desk plugin. The system informs them that only users with administrator rights can proceed with the setup.
+#: wello_servicedesk_generate_token_page.php:46
+msgid "Thank you for your interest in the Wello Service desk plugin. You need to be an administrator to set up this plugin."
+msgstr "Vielen Dank für Ihr Interesse am Wello Service Desk Plugin. Sie müssen ein Administrator sein, um dieses Plugin einzurichten."
+
+#: wello_servicedesk_generate_token_page.php:94
+msgid "Unknown"
+msgstr "Unbekannt"
+
+#: wello_servicedesk_generate_token_page.php:171
+msgid "Username"
+msgstr "Benutzername"
+
+#. Author of the plugin
+msgid "Wello"
+msgstr "Wello"
+
+#: wello_servicedesk_generate_token_page.php:118
+msgid "Wello Service Desk - Access Token Setup"
+msgstr "Wello Service Desk - Access Token einrichten"
+
+#. Name of the plugin
+msgid "Wello Service Desk API"
+msgstr "Wello Service Desk API"
+
+#: wello-servicedesk-api.php:67
+msgid "Wello Service Desk Template"
+msgstr "Wello Service Desk Vorlage"
+
+#: support-page-editor.php:8 wello_servicedesk_generate_token_page.php:8
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Sie haben nicht genügend Zugriffsrechte auf diese Seite."
