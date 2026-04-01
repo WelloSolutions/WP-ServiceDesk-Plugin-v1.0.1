@@ -1,0 +1,22 @@
+{
+  "work_order_list_page_go_back": "Revenir en arrière",
+  "work_order_list_page_helping_text": "Cliquez sur la ligne pour afficher les détails de l’intervention.",
+  "work_order_list_page_title": "Liste des interventions",
+  "work_order_list_table_heading_address_text": "Adresse",
+  "work_order_list_table_heading_name_text": "Nom",
+  "work_order_list_table_heading_planned_date_text": "Date prévue",
+  "work_order_list_table_heading_closing_date_text": "Date de clôture",
+  "work_order_list_table_heading_reference_text": "Référence",
+  "work_order_list_table_heading_status_text": "Statut",
+  "work_order_list_table_heading_type_text": "Type",
+  "work_order_list_table_pagination_of": "de",
+  "work_order_list_table_pagination_page": "Page",
+  "work_order_list_table_pagination_show": "Montrer",
+  "work_order_list_toggle_completed_text": "Interventions clôturés",
+  "work_order_list_toggle_pending_text": "Interventions en cours",
+  "work_order_list_table_page_planned_date_technician": "Date prévue et Technicien",
+  "work_order_list_table_page_remarks_ref": "Ref",  
+  "work_order_list_table_page_remarks_technician": "Technicien",
+  "work_order_list_table_page_remarks_date": "Date",
+  "work_order_list_table_page_remarks_technicians_remarks": "Remarques du technicien"
+}

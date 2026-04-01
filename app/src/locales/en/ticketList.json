@@ -1,0 +1,19 @@
+{
+  "tickets_list_page_title": "Ticket Lists",
+  "tickets_list_page_go_back": "Go Back",
+  "tickets_list_toggle_open_tickets_text": "Pending Tickets",
+  "tickets_list_toggle_completed_tickets_text": "Closed Tickets",
+  "tickets_list_page_helping_text": "Click the row to view ticket details.",
+  "tickets_list_table_heading_reference_text": "Reference",
+  "tickets_list_table_heading_created_date_text": "Created On",
+  "tickets_list_table_heading_status_text": "Status",
+  "tickets_list_table_heading_assigned_name_text": "Assigned To",
+  "tickets_list_table_heading_name_text": "Name",
+  "tickets_list_table_heading_type_text": "Type",
+  "tickets_list_hint_text": "Click on the view the ticket deatil.",
+  "tickets_list_not_assigned_label": "Not Assigned",
+  "tickets_list_status_label_open": "Open",
+  "ticket_list_table_pagination_page": "Page",
+  "ticket_list_table_pagination_of": "of",
+  "ticket_list_table_pagination_show": "Show"
+} 

@@ -1,0 +1,19 @@
+{
+  "ticket_list_table_pagination_of": "de",
+  "ticket_list_table_pagination_page": "Page",
+  "ticket_list_table_pagination_show": "Montrer",
+  "tickets_list_hint_text": "Cliquez pour afficher les détails du ticket.",
+  "tickets_list_not_assigned_label": "Non attribué",
+  "tickets_list_page_go_back": "Revenir en arrière",
+  "tickets_list_page_helping_text": "Cliquez sur la ligne pour afficher les détails du ticket.",
+  "tickets_list_page_title": "Liste des tickets",
+  "tickets_list_status_label_open": "Ouvrir",
+  "tickets_list_table_heading_assigned_name_text": "Affecté à",
+  "tickets_list_table_heading_created_date_text": "Créé le",
+  "tickets_list_table_heading_name_text": "Nom",
+  "tickets_list_table_heading_reference_text": "Référence",
+  "tickets_list_table_heading_status_text": "Statut",
+  "tickets_list_table_heading_type_text": "Type",
+  "tickets_list_toggle_completed_tickets_text": "Tickets clôturés",
+  "tickets_list_toggle_open_tickets_text": "Tickets en cours"
+}

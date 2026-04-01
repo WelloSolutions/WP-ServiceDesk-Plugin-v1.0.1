@@ -1,0 +1,22 @@
+{
+  "single_ticket_page_assigned_to": "Toegewezen aan",
+  "single_ticket_page_created_by": "Gemaakt door",
+  "single_ticket_page_description": "Beschrijving",
+  "single_ticket_page_documents": "Documenten",
+  "single_ticket_page_err_failed_to_fetch_all": "Kan ticket, werkorder of documenten niet ophalen.",
+  "single_ticket_page_err_failed_to_fetch_thumbnail": "Het ophalen van miniaturen is mislukt.",
+  "single_ticket_page_err_no_ticket_id_auth": "Ticket ID of auth sleutel ontbreekt.",
+  "single_ticket_page_go_back": "Ga terug",
+  "single_ticket_page_linked_wo": "Gekoppeld aan werkorder",
+  "single_ticket_page_location_equipment": "Locatie en apparatuur",
+  "single_ticket_page_no_description": "Er is geen beschrijving opgegeven.",
+  "single_ticket_page_no_document": "Geen document beschikbaar.",
+  "single_ticket_page_reference": "Referentie",
+  "single_ticket_page_severity": "Ernst",
+  "single_ticket_page_ticket_details": "Details ticket",
+  "single_ticket_page_type_status": "Type en status",
+  "single_ticket_page_view_document": "Document bekijken",
+  "single_ticket_page_select_to_download": "Selecteer om het document te downloaden",
+  "single_ticket_page_download_button": "Downloaden",
+  "single_ticket_page_download_all_button": "Alles downloaden"
+}

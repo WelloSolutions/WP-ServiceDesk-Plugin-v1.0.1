@@ -1,0 +1,17 @@
+{
+  "navbar_calendar_page_link": "Calendrier",
+  "navbar_collapse_arrow": "Replier",
+  "navbar_create_ticket_link": "Créer un ticket",
+  "navbar_documents_list_link": "Documents",
+  "navbar_equipments_list_link": "Équipements",
+  "navbar_home_page_link": "Accueil",
+  "navbar_lang_en": "Anglais",
+  "navbar_lang_fr": "Français",
+  "navbar_lang_nl": "Nederlands",
+  "navbar_language_label": "Sélectionnez une langue",
+  "navbar_search_box": "Rechercher",
+  "navbar_support_page_link": "Support",
+  "navbar_tickets_list_link": "Tickets",
+  "navbar_users_list_link": "Utilisateurs",
+  "navbar_work_order_list_link": "Interventions (WO)"
+}

@@ -1,0 +1,12 @@
+{
+  "user_list_page_go_back": "Go Back",
+  "user_list_page_title": "Users List",
+  "user_list_password_update_text": "Update My Password",
+  "user_list_first_name_text": "First Name",
+  "user_list_last_name_text": "Last Name",
+  "user_list_email_text": "Email",
+  "user_list_tel_text": "Mobile Number",
+  "user_list_table_pagination_page": "Page",
+  "user_list_table_pagination_of": "of",
+  "user_list_table_pagination_show": "Show"
+} 

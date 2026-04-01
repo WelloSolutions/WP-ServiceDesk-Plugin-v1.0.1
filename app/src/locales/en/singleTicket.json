@@ -1,0 +1,22 @@
+{
+  "single_ticket_page_go_back": "Go Back",
+  "single_ticket_page_reference": "Reference",
+  "single_ticket_page_ticket_details": "Ticket Details",
+  "single_ticket_page_documents": "Documents",
+  "single_ticket_page_location_equipment": "Location and Equipment",
+  "single_ticket_page_created_by": "Created By",
+  "single_ticket_page_assigned_to": "Assigned To",
+  "single_ticket_page_severity": "Severity",
+  "single_ticket_page_type_status": "Type and Status",
+  "single_ticket_page_linked_wo": "Linked to Work Order",
+  "single_ticket_page_description": "Description",
+  "single_ticket_page_no_description": "No description has been provided.",
+  "single_ticket_page_view_document": "View Document",
+  "single_ticket_page_no_document": "No document available.",
+  "single_ticket_page_err_no_ticket_id_auth": "Ticket ID or auth key is missing.",
+  "single_ticket_page_err_failed_to_fetch_all": "Failed to fetch ticket, work order, or documents.",
+  "single_ticket_page_err_failed_to_fetch_thumbnail": "Failed to fetch thumbnails.",
+  "single_ticket_page_select_to_download": "Select to Download the Document.",
+  "single_ticket_page_download_button": "Download",
+  "single_ticket_page_download_all_button": "Download All"
+}

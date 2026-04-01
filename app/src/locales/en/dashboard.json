@@ -1,0 +1,16 @@
+{
+  "navbar_collapse_arrow": "Collapse",
+  "navbar_search_box": "Search",
+  "navbar_home_page_link": "Home",
+  "navbar_create_ticket_link": "Create Ticket",
+  "navbar_tickets_list_link": "Tickets",
+  "navbar_calendar_page_link": "Calendar",
+  "navbar_work_order_list_link": "Work Orders (WO)",
+  "navbar_users_list_link": "Users",
+  "navbar_equipments_list_link": "Equipments",
+  "navbar_documents_list_link": "Documents",
+  "navbar_support_page_link": "Support",
+  "navbar_lang_en": "English",
+  "navbar_lang_fr": "Français",
+  "navbar_lang_nl": "Nederlands"
+}

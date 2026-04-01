@@ -1,0 +1,12 @@
+{
+  "user_list_email_text": "Courriel",
+  "user_list_first_name_text": "Prénom",
+  "user_list_last_name_text": "Nom",
+  "user_list_page_go_back": "Revenir en arrière",
+  "user_list_page_title": "Liste des utilisateurs",
+  "user_list_password_update_text": "Mettre à jour mon mot de passe",
+  "user_list_table_pagination_of": "de",
+  "user_list_table_pagination_page": "Page",
+  "user_list_table_pagination_show": "Montrer",
+  "user_list_tel_text": "Numéro de téléphone portable"
+}

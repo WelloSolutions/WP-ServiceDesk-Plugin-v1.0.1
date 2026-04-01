@@ -1,0 +1,12 @@
+{
+  "login_form_email": "Enter Email here",
+  "login_form_password": "Password",
+  "login_remenber_me": "Remember me",
+  "login_form_button": "Login",
+  "login_lang_change": "Change",
+  "login_lang_en": "English",
+  "login_lang_fr": "Français",
+  "login_lang_nl": "Nederlands",
+  "login_error_invalid_credentials": "Invalid email or password. Please try again.",
+  "login_invalid_credentials": "Invalid credentials"
+}

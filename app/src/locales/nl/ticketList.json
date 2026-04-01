@@ -1,0 +1,19 @@
+{
+  "ticket_list_table_pagination_of": "van",
+  "ticket_list_table_pagination_page": "Pagina",
+  "ticket_list_table_pagination_show": "Toon",
+  "tickets_list_hint_text": "Klik om de details van het ticket te bekijken.",
+  "tickets_list_not_assigned_label": "Niet toegewezen",
+  "tickets_list_page_go_back": "Ga terug",
+  "tickets_list_page_helping_text": "Klik op de rij om de details van het ticket te bekijken.",
+  "tickets_list_page_title": "Ticketlijsten",
+  "tickets_list_status_label_open": "Open",
+  "tickets_list_table_heading_assigned_name_text": "Toegewezen aan",
+  "tickets_list_table_heading_created_date_text": "Gemaakt op",
+  "tickets_list_table_heading_name_text": "Naam",
+  "tickets_list_table_heading_reference_text": "Referentie",
+  "tickets_list_table_heading_status_text": "Status",
+  "tickets_list_table_heading_type_text": "Type",
+  "tickets_list_toggle_completed_tickets_text": "Gesloten tickets",
+  "tickets_list_toggle_open_tickets_text": "Openstaande tickets"
+}

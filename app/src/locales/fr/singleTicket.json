@@ -1,0 +1,19 @@
+{
+   "single_ticket_page_assigned_to": "Affecté à",
+  "single_ticket_page_created_by": "Créé par",
+  "single_ticket_page_description": "Description",
+  "single_ticket_page_documents": "Documents",
+  "single_ticket_page_err_failed_to_fetch_all": "Échec de l'extraction d'un ticket, d'un bon de travail ou de documents.",
+  "single_ticket_page_err_failed_to_fetch_thumbnail": "Échec de l'extraction des vignettes.",
+  "single_ticket_page_err_no_ticket_id_auth": "L'ID du ticket ou la clé d'authentification est manquante.",
+  "single_ticket_page_go_back": "Revenir en arrière",
+  "single_ticket_page_linked_wo": "Lié à l'intervention",
+  "single_ticket_page_location_equipment": "Emplacement et équipement",
+  "single_ticket_page_no_description": "Aucune description n'a été fournie.",
+  "single_ticket_page_no_document": "Aucun document disponible.",
+  "single_ticket_page_reference": "Référence",
+  "single_ticket_page_severity": "Sévérité",
+  "single_ticket_page_ticket_details": "Détails du ticket",
+  "single_ticket_page_type_status": "Type et statut",
+  "single_ticket_page_view_document": "Voir le document"
+}
